@@ -6,5 +6,6 @@ public class HappyBirrthday {
 
         System.out.println("Happy Birthday Polina");
         System.out.println("Thank you")
+            System.out.println("Thank you")
     }
 }
